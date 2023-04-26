@@ -1,8 +1,8 @@
 streamlit
 pandas
-st_tags
+streamlit-tags
 numpy
-streamlit_star_rating
+streamlit-star-rating
 sklearn
 requests
 imdb
