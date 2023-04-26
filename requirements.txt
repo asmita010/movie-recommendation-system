@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+streamlit_star_rating
+sklearn
+requests
+imdb
+re
+PIL
