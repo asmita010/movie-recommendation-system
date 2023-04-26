@@ -1,5 +1,6 @@
 streamlit
 pandas
+streamlit_tags
 numpy
 streamlit_star_rating
 sklearn
